@@ -14,8 +14,8 @@ controller.route('/dnbproxy')
     var authoptions = {
       url: 'https://maxcvservices.dnb.com/rest/Authentication',
       headers: {
-          'x-dnb-user': 'P2000007E4C365358D14B49B9C2EB00D',
-          'x-dnb-pwd' : '33lizards'
+          'x-dnb-user': 'xxx',
+          'x-dnb-pwd' : 'xxx'
       }
     }
     var calloptions = {
