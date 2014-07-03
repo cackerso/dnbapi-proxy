@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Ackerson <cackerso@us.ibm.com",
+  "dependencies": {
+    "body-parser": "^1.0.2",
+    "compression": "^1.0.2",
+    "cookie-parser": "^1.0.1",
+    "cookie-session": "^1.0.1",
+    "express": "^4.1.1",
+    "express-session": "^1.0.4",
+    "helmet": "^0.2.1",
+    "method-override": "^1.0.0",
+    "request": "^2.36.0"
+  }
+}
